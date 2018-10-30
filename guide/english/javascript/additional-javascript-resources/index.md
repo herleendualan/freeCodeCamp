@@ -91,6 +91,8 @@ title: JavaScript Tutorials and Other Resources
 *   [Coderbyte](https://coderbyte.com)
 *   [Exercism](https://exercism.io)
 *   [JavaScript30](https://javascript30.com)
+*   [Edabit](https://edabit.com/)
+ 
 
 
 ## Blogs
