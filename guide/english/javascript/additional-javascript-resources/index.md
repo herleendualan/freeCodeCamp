@@ -16,8 +16,6 @@ title: JavaScript Tutorials and Other Resources
 *   <a href='https://www.codementor.io/community/topic/javascript' target='_blank' rel='nofollow'>Codementor JavaScript tutorial</a> 
 *   <a href='http://youmightnotneedjquery.com/' target='_blank' rel='nofollow'>You Might Not Need jQuery</a>
 *   <a href='http://javascriptbook.com/' target='_blank' rel='nofollow'>JavaScript and jQuery: interactive front-end web development</a>
-*   <a href='https://ponyfoo.com/books/practical-modern-javascript/chapters/1#read' target='_blank' rel='nofollow'>Practical Modern Javascript</a>
-*   <a href='https://ponyfoo.com/books/mastering-modular-javascript/chapters/1#read' target='_blank' rel='nofollow'>Mastering Modular Javascript</a>
 
 ## References
 
@@ -139,5 +137,7 @@ title: JavaScript Tutorials and Other Resources
 *   [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet)
 *   [Speaking Javascript](http://speakingjs.com/es5)
 *   [Exploring ES6](http://exploringjs.com/es6)
-
+*   [Practical Modern Javascript](https://ponyfoo.com/books/practical-modern-javascript/chapters/1#read)
+*   [Mastering Modular Javascript](https://ponyfoo.com/books/mastering-modular-javascript/chapters/1#read)
+*   [Javascript Enlightenment](http://javascriptenlightenment.com/)
 
