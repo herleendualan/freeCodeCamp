@@ -32,6 +32,7 @@ title: JavaScript Tutorials and Other Resources
 
 *   [Codecademy](https://www.codecademy.com/catalog/language/javascript)
 *   [RithmSchool](https://www.rithmschool.com/courses)
+*   [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 *   [The Modern JavaScript Tutorial](https://javascript.info/)
 *   [Introduction to JavaScript: First Steps](https://www.educative.io/collection/5679346740101120/5720605454237696)
 *   [JavaScript for Cats](http://jsforcats.com/)
